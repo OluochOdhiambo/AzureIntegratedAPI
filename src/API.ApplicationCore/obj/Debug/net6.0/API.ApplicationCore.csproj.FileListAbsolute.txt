@@ -1,0 +1,12 @@
+C:\Users\TASH-PC\source\repos\AzureAPI\src\API.ApplicationCore\bin\Debug\net6.0\API.ApplicationCore.deps.json
+C:\Users\TASH-PC\source\repos\AzureAPI\src\API.ApplicationCore\bin\Debug\net6.0\API.ApplicationCore.dll
+C:\Users\TASH-PC\source\repos\AzureAPI\src\API.ApplicationCore\bin\Debug\net6.0\API.ApplicationCore.pdb
+C:\Users\TASH-PC\source\repos\AzureAPI\src\API.ApplicationCore\obj\Debug\net6.0\API.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\TASH-PC\source\repos\AzureAPI\src\API.ApplicationCore\obj\Debug\net6.0\API.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TASH-PC\source\repos\AzureAPI\src\API.ApplicationCore\obj\Debug\net6.0\API.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\TASH-PC\source\repos\AzureAPI\src\API.ApplicationCore\obj\Debug\net6.0\API.ApplicationCore.AssemblyInfo.cs
+C:\Users\TASH-PC\source\repos\AzureAPI\src\API.ApplicationCore\obj\Debug\net6.0\API.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\TASH-PC\source\repos\AzureAPI\src\API.ApplicationCore\obj\Debug\net6.0\API.ApplicationCore.dll
+C:\Users\TASH-PC\source\repos\AzureAPI\src\API.ApplicationCore\obj\Debug\net6.0\refint\API.ApplicationCore.dll
+C:\Users\TASH-PC\source\repos\AzureAPI\src\API.ApplicationCore\obj\Debug\net6.0\API.ApplicationCore.pdb
+C:\Users\TASH-PC\source\repos\AzureAPI\src\API.ApplicationCore\obj\Debug\net6.0\ref\API.ApplicationCore.dll
